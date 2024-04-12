@@ -1,6 +1,6 @@
 # hotel-iracema
-Projeto criado na finalização do curso tecnico de informática na EEEP
+Projeto final do curso técnico de informática integrado ao ensino médio.
 
-Esse projeto foi desenvolvido completamente do zero, com a utilização de Bootstrap como framework front-end e PHP para backend. <br>
-Também foi utilizado banco de dados Sql, possuindo diversos CRUD em toda aplicação. <br>
-As principais funcionalidades são: sistema de registro/login, acesso de administrador podendo: publicar imagens na galeria e criar novos quartos, realizar reservas apenas quando logado, acessar reservas e cancelar.
+Esse projeto foi desenvolvido completamente do zero, com a utilização de Bootstrap como framework front-end e utilizado da linguagen PHP em back-end. <br>
+Também foi utilizado Mysql, possibiliando o desenvolvimento do conceito de CRUD em toda a aplicação.<br>
+As principais funcionalidades são: sistema de registro/login, realizar reservas (apenas quando logado), acessar reservas e cancelar e o acesso de administrador, sendo ele com permissões de: publicar imagens na galeria e criar novos quartos. 
